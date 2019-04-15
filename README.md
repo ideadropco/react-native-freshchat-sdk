@@ -5,13 +5,13 @@
 1. Install via one of two ways:
    1. Via terminal:
         ```bash
-        npm i -S git@github.com:ideadropco/react-native-freshchat-sdk.git
+        npm i -S github:ideadropco/react-native-freshchat-sdk
         ```
     2. Or in package.json you can add:
         ```json
             {
                 "dependencies": {
-                    "react-native-freshchat-sdk": "git@github.com:ideadropco/react-native-freshchat-sdk.git"
+                    "react-native-freshchat-sdk": "github:ideadropco/react-native-freshchat-sdk"
                 }
             }
         ```
